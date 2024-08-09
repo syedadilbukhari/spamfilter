@@ -1,0 +1,21 @@
+Id,Email_Text,Label
+1,"Win money now! Click here to claim your prize.",spam
+2,"Meeting agenda for tomorrow's project discussion.",not spam
+3,"Exclusive offer just for you! Buy one get one free.",spam
+4,"Reminder: Your appointment with the dentist is scheduled for next week.",not spam
+5,"Congratulations! You've been selected for a free trip to the Bahamas!",spam
+6,"Monthly report attached. Please review and send your feedback.",not spam
+7,"Limited-time offer: 50% off on all products!",spam
+8,"Your order has been shipped. Track your package here.",not spam
+9,"Update your account information to avoid suspension.",spam
+10,"Your invoice for the recent purchase is attached.",not spam
+11,"Earn extra cash working from home. No experience required!",spam
+12,"Team meeting rescheduled to 2 PM tomorrow.",not spam
+13,"Hurry up! Sale ends tonight. Get 70% off on selected items.",spam
+14,"New guidelines for the upcoming project have been released.",not spam
+15,"You have won a free gift card! Redeem now.",spam
+16,"Your subscription has been renewed. Thank you for your payment.",not spam
+17,"Act now and save big on your next purchase!",spam
+18,"Important: Update your password immediately.",spam
+19,"Here's your monthly newsletter. Stay updated with the latest news.",not spam
+20,"Urgent: Verify your account to avoid closure.",spam
